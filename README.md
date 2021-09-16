@@ -63,14 +63,21 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## About the backend :
+
+The application currently uses the functions deployed on the netliry production server. If you want to run the back end locally, we need to make changes in the api.js file and change the variable baseURL to ```http://localhost:9000```. Api.js islocated at ```./src/redux/api.js```, on line number 5.  
+
+If you want to add new features or create new routes on the backend, you may make changes by cloning the repo 
+#### git clone https://github.com/pesto-students/n6-aucti-be-epsilon-6.git
+
 ## Contribution
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project
-Create your Feature Branch (```git checkout -b feature/AmazingFeature```)
-Commit your Changes (```git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
+1. Fork the Project
+2. Create your Feature Branch (```git checkout -b feature/AmazingFeature```)
+3. Commit your Changes (```git commit -m 'Add some AmazingFeature'```)
+4. Push to the Branch (```git push origin feature/AmazingFeature```)
+5. Open a Pull Request
 
 ## Authors
 Kirushan Balakrishnan & Anurag Kumar
