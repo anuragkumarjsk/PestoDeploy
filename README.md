@@ -15,13 +15,13 @@ The Ui is simple and intutive, for seamless interaction with users the website h
 ## Local Setup
 
 - In a suitable code editor clone the repo
-  https://github.com/pesto-students/n6-aucti-fe-epsilon-6.git
+   https://github.com/pesto-students/n6-aucti-fe-epsilon-6.git
 
 - Switch to the cloned repo  
    cd n6-aucti-fe-epsilon-6
 
 - Install dependencies
-  npm install
+   npm install
 
 ## Run the application locally:
 
