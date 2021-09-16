@@ -65,7 +65,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## About the backend :
 
-The application currently uses the functions deployed on the netliry production server. If you want to run the back end locally, we need to make changes in the api.js file and change the variable baseURL to ```http://localhost:9000```. Api.js islocated at ```./src/redux/api.js```, on line number 5.  
+The application currently uses the functions deployed on the netliry production server. If you want to run the back end locally, we need to make changes in the api.js file and change the value of the variable baseURL to ```http://localhost:9000```. Api.js islocated at ```./src/redux/api.js```, on line number 5.  
 
 If you want to add new features or create new routes on the backend, you may make changes by cloning the repo 
 #### git clone https://github.com/pesto-students/n6-aucti-be-epsilon-6.git
