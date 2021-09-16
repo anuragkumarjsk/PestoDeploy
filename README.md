@@ -8,7 +8,7 @@ Aucti is a platform for the buyers and sellers of exquisite products, antiques a
 
 It brings this niche domain of business into the main stream by tranforming auctions into e-commerce .This platform helps establish an ecosystem of trust which guarentees fulfillment to both buyers and sellers.
 
-The website can be reached at : https://aucti-fe.netlify.app/home/landing
+The website can be reached at : https://aucti-fe.netlify.app
 
 The Ui is simple and intutive, for seamless interaction with users the website has simple pages like : landing page, search page, product page, quick links(on footer). A user can log into their account as a buyer or a seller and perform actions depending on persona like bidding,add to wishlist, add product, select bid, end auction etc.
 
@@ -62,3 +62,15 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Contribution
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (```git checkout -b feature/AmazingFeature```)
+Commit your Changes (```git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+## Authors
+Kirushan Balakrishnan & Anurag Kumar
